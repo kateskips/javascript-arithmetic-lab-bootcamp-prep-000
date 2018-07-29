@@ -22,6 +22,6 @@ function dec(n) {
   return --n;
 }
 
-function makeInt() {
-  return parseInt();
+function makeInt(n) {
+  return parseInt(n);
 }
